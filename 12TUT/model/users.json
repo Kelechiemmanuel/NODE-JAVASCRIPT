@@ -1,0 +1,36 @@
+[
+    {
+        "username": "wait2",
+        "roles": {
+            "user": 2001
+        },
+        "password": "$2b$10$PZK3MNrc7rFnVp13SIufqeNzDiKOi4iCwGjv4lDIFlcJzhpAgLSXe"
+    },
+    {
+        "username": "wait1",
+        "roles": {
+            "user": 2001,
+            "Editor": 1984,
+            "Admin": 5150
+        },
+        "password": "$2b$10$oz12kGfuq6R0R/G02xA2kuvhYGU27J/t6gvjT4GJJMrcflYSRnAdi",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndhaXQxIiwiaWF0IjoxNzg0NjI5ODk5LCJleHAiOjE3ODQ3MTYyOTl9.q5D6pt5c2e8dWx-vh7QWNSlTBB7zJ0e0GEGOFWkMFe8"
+    },
+    {
+        "username": "joy",
+        "roles": {
+            "user": 2001
+        },
+        "password": "$2b$10$pzCWVRRGairAef.1AiY9e.6rgeWfYUatLY3gVRLkXDfDNTxeNGs/a",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpveSIsImlhdCI6MTc4NDYzMDE4NCwiZXhwIjoxNzg0NzE2NTg0fQ.VhojlAAC6OaRh52wVnmYRiXzUGhUeAuotH8ESufsglI"
+    },
+    {
+        "username": "kelechi",
+        "roles": {
+            "user": 2001,
+            "Editor": 1984
+        },
+        "password": "$2b$10$G4W2OsQcxv5hhk0Tvl5uQublTPoBkLb.fFMpo3yHKPQF7G6ZNyzty",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImtlbGVjaGkiLCJpYXQiOjE3ODQ2MzAzNDAsImV4cCI6MTc4NDcxNjc0MH0.VR9UUoGrD9SumXMasMG6zWdmgSpS_hYrBLd3y6-It6g"
+    }
+]

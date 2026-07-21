@@ -1,0 +1,28 @@
+20260719	10:35:07	a5384a9d-c4c9-4f3a-abd2-91641c613d24	Error: Not allowed by CORS
+20260719	11:09:58	7bb9f55c-8c14-4043-bbe1-a4f87cb7e345	Error: ENOENT: no such file or directory, stat 'C:\Users\USER\NODE JAVASCRIPT\08TUT\views\subdir\test.html'
+20260719	11:54:52	effd5709-055b-47ef-bce1-d5776c9ba89c	SyntaxError: Unexpected token '"', ""  {\n    "... is not valid JSON
+20260719	13:19:25	6806da39-9c5b-482d-a0a4-80a261cea319	SyntaxError: Unexpected token '"', ""  {\n    "... is not valid JSON
+20260719	13:19:33	45554966-6600-4b77-b1d0-d28139ecfb3e	SyntaxError: Unexpected token '"', ""  {\n    "... is not valid JSON
+20260719	13:19:34	d3b25ecb-e08d-410c-919e-575628fdb928	SyntaxError: Unexpected token '"', ""  {\n    "... is not valid JSON
+20260719	13:19:50	f967ac16-db87-485f-aaef-26e6cdb58476	SyntaxError: Unexpected token '"', ""  {\n    "... is not valid JSON
+20260719	13:19:51	f918e4a2-d809-46a0-939e-c151b7c0e755	SyntaxError: Unexpected token '"', ""  {\n    "... is not valid JSON
+20260719	13:20:20	d75948df-cd91-4e81-b701-441c91d61b7c	SyntaxError: Unexpected token '"', ""  {\n    "... is not valid JSON
+20260719	13:20:21	94a3cd2a-bcd5-4319-9d74-2828545278d5	SyntaxError: Unexpected token '"', ""  {\n    "... is not valid JSON
+20260719	13:20:35	e0cc6a0a-fa2b-4c5b-b200-f9ff1be18953	TypeError: Cannot read properties of undefined (reading 'filter')
+20260719	13:20:36	c40d8b3e-44b6-48bb-a123-e6cdad93998a	TypeError: Cannot read properties of undefined (reading 'filter')
+20260719	13:20:49	2c0109d1-e7ac-4dbb-be76-4f976782f7ee	TypeError: Cannot read properties of undefined (reading 'filter')
+20260719	13:21:13	345a4874-badf-4c29-9eb5-a5f710293b8a	TypeError: Cannot read properties of undefined (reading 'filter')
+20260719	13:21:47	ebab075b-3427-4cd4-9b7d-679740b895f1	TypeError: Cannot read properties of undefined (reading 'filter')
+20260719	13:29:10	7ea03ba7-c035-41c4-8797-223a0c9960be	SyntaxError: Unexpected token '"', ""{\n  \"id"... is not valid JSON
+20260719	13:29:46	13a75045-5d55-4028-9c82-b0ff8b7445bf	SyntaxError: Unexpected token '"', ""{\n  \"id"... is not valid JSON
+20260719	13:31:37	641ef82c-3c10-499c-83fb-497928e687b4	TypeError: Cannot read properties of undefined (reading 'filter')
+20260719	14:40:11	5d511175-170b-4a7f-92b7-376386bfa591	ReferenceError: person is not defined
+20260719	17:01:00	686da149-3e25-4d9b-a1b9-ba034fa9ec10	ReferenceError: decoded is not defined
+20260719	18:07:01	049c7628-7a69-4a54-a405-454166b224b8	ReferenceError: cookie is not defined
+20260719	18:07:05	864fa8f0-cc68-4cd8-9a35-ea354b9dd4e8	ReferenceError: cookie is not defined
+20260719	18:07:07	9828d16a-1437-428a-84c8-abf7893c85cd	ReferenceError: cookie is not defined
+20260721	11:11:05	92fa804c-08c1-4ef3-9d8a-1c8017c6ec93	TypeError: Cannot convert undefined or null to object
+20260721	11:15:02	027498e7-bb95-48d9-bfd2-08f3a022ec7c	TypeError: Cannot convert undefined or null to object
+20260721	11:16:57	a512b8eb-6ea0-4533-a625-647fd34538a5	TypeError: Cannot convert undefined or null to object
+20260721	11:22:46	0add9b4e-8af9-4d3a-bbd3-f44766606324	TypeError: Cannot read properties of undefined (reading 'roles')
+20260721	11:38:33	1c327856-501a-451c-b59e-c43ac2cce0b1	TypeError: Cannot read properties of undefined (reading 'roles')
