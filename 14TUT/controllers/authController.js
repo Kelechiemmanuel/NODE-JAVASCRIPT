@@ -31,7 +31,7 @@ const handleLogin = async(req, res) => {
         foundUser.refreshToken = refreshToken;
         const result = await foundUser.save();
         
-        res.cookie("jwt", refreshToken, {httpOnly: true, sameSite: "None", secure: true, maxAge: 24 * 60 * 60 * 1000}); //secure: true in production
+        res.cookie("jwt", refreshToken, {httpOnly: true, sameSite: "None", maxAge: 24 * 60 * 60 * 1000}); //secure: true in production
         res.json({ accessToken });
       } else {
         res.sendStatus(401);

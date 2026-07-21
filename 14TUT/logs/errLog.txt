@@ -35,3 +35,6 @@
 
 20260721	17:13:27	6dc022f3-2066-4b5d-941e-007938822f2e	MongoServerSelectionError: CC510000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:openssl\ssl\record\rec_layer_s3.c:916:SSL alert number 80
 
+20260721	19:00:25	c17f4c58-6973-4e69-bafd-5f7c237f846b	SyntaxError: Unexpected token '"', ""    \n   "... is not valid JSON
+20260721	19:00:27	dd58001a-f1d2-4337-a4c8-ab9d053f4192	SyntaxError: Unexpected token '"', ""    \n   "... is not valid JSON
+20260721	20:12:58	d1ecdd42-2241-4db2-a487-8103fa8f4739	SyntaxError: Unexpected token '"', ""{\n  \"_i"... is not valid JSON
