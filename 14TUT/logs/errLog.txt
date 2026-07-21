@@ -26,3 +26,7 @@
 20260721	11:16:57	a512b8eb-6ea0-4533-a625-647fd34538a5	TypeError: Cannot convert undefined or null to object
 20260721	11:22:46	0add9b4e-8af9-4d3a-bbd3-f44766606324	TypeError: Cannot read properties of undefined (reading 'roles')
 20260721	11:38:33	1c327856-501a-451c-b59e-c43ac2cce0b1	TypeError: Cannot read properties of undefined (reading 'roles')
+20260721	15:13:45	f2b7b6c2-0364-49a7-a415-291fd1ec6031	Error: data and hash arguments required
+20260721	15:14:23	3430b760-dd64-438b-a929-0fba029cc55d	Error: data and hash arguments required
+20260721	15:15:32	819b8b16-c0ff-4186-8b67-1a9361895a9c	Error: data and hash arguments required
+20260721	16:14:42	f4330b86-6851-4f66-b05e-8057698f1b2e	MongoServerSelectionError: connection <monitor> to 65.62.2.116:27017 timed out
